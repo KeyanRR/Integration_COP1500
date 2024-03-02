@@ -7,3 +7,4 @@ If the user enters a tip, the system displays a thank you message, along with th
 [![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{KeyanRR}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{KeyanRR}/{repo})
 
 [![Scorecard supply-chain security](https://github.com/KeyanRR/Integration_COP1500/actions/workflows/scorecard.yml/badge.svg)](https://github.com/KeyanRR/Integration_COP1500/actions/workflows/scorecard.yml)
+![OSSF-Scorecard Score](https://img.shields.io/ossf-scorecard/github.com/KeyanRR/Integration_COP1500)
