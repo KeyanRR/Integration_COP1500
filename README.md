@@ -4,5 +4,6 @@ The program will keep asking ther user if they would like to add another item, u
 If the user enters yes that they would like to add a tip, the system displays common tip percentages (15%, 18%, 20%) applied to the users total, so there is no math required, unless they would like to tip greater than 20%. However, the system prompts them to enter the tip amount, so they can enter any amount they choose. 
 If the user enters a tip, the system displays a thank you message, along with their new total with their tip included. The program then displays a final thank you message telling you to enjoy and showing your new total.  
 
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{KeyanRR}/{repo}/badge)]
-(htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{KeyanRR}/{repo})
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{KeyanRR}/{repo}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{KeyanRR}/{repo})
+
+[![Scorecard supply-chain security](https://github.com/KeyanRR/Integration_COP1500/actions/workflows/scorecard.yml/badge.svg)](https://github.com/KeyanRR/Integration_COP1500/actions/workflows/scorecard.yml)
